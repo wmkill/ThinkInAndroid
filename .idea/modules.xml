@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ThinkInAndroid.iml" filepath="$PROJECT_DIR$/ThinkInAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deviceadapte/deviceadapte.iml" filepath="$PROJECT_DIR$/deviceadapte/deviceadapte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinkinlistview/thinkinlistview.iml" filepath="$PROJECT_DIR$/thinkinlistview/thinkinlistview.iml" />
+    </modules>
+  </component>
+</project>

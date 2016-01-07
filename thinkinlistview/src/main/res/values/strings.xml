@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThinkInListview</string>
+    <string name="editMode">编辑模式</string>
+</resources>
